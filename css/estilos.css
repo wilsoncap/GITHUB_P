@@ -17,4 +17,22 @@ body{
 
 #container h1{
     font-size: 20px;
+    
+}
+
+#cabecera{
+    background: blueviolet;
+    color: white;
+    margin: 0;
+    padding: 1em 5em;
+    box-shadow: 10px 5px 10px #aaa;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+#cabecera #tagline{
+color: white;
+font-weight: normal;
+font-size: 0.8em;
 }
