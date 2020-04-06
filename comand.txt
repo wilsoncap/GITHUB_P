@@ -1,0 +1,13 @@
+git log ND- historial de comis
+git show ND - informacion a detalle
+gir diff #commit #commit
+git reset #commit --hard resetear fuerte
+git reset #commit --soft
+git log --stat para ver los cambios en cada comit
+git chechout #commite ND - para volver en el tiempo a algun archivo
+git master ND - para volver a reanudar lo que teniamos en la version fnal
+git push -subir al servidor remoto
+git pull obtener actualizacion de repositorio remoto
+git clone url clonar repositorio local
+git fech - actualiazion de proyecto local co remoto
+git merge - para mesclar la actualizacion de fetch
