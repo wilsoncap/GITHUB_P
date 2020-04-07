@@ -36,3 +36,14 @@ color: white;
 font-weight: normal;
 font-size: 0.8em;
 }
+
+.footer{
+    background: grey;
+    margin: 0;
+    padding: 10px;
+}
+
+.footer p{
+    font-size: 20px;
+    padding: 0;
+}
