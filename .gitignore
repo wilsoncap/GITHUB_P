@@ -1,2 +1,5 @@
 *.jpg
 *.pdf
+*.webp
+/material/*.doc
+/material/*.pdf
