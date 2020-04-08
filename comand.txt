@@ -11,3 +11,7 @@ git pull obtener actualizacion de repositorio remoto
 git clone url clonar repositorio local
 git fech - actualiazion de proyecto local co remoto
 git merge - para mesclar la actualizacion de fetch
+git remote -v
+git remote add upstream url(ssh) -crea otra fuente de datos en nuetro directorio de la cual podemos hacer pull
+git pull upstream master
+git push origin master
