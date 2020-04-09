@@ -5,5 +5,7 @@ Wilson tiene 32 años y nacion en colombia
 
 master 1
 
+master 2 
+
 hoy hablaremos de su historia
 mañana nos enfocaremos en su vida laboral
